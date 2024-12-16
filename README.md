@@ -50,9 +50,6 @@ Ever since I first explored the inner workings of software, I’ve been fascinat
 [**LinkedIn**](https://www.linkedin.com/in/nirrjhorr)  
 [**Email**](dev.mdhasan@gmail.com)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=nirrjhorr=green "Profile Counter")
-
 ---
 
 Let’s connect! Whether it’s discussing software quality, brainstorming solutions, or collaborating on exciting projects, I’d love to hear from you. Check out my repositories for a deeper dive into my work.

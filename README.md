@@ -1,6 +1,7 @@
 # 💫 About Me
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="padding: 10px;">
+
 
 **Hi,** I’m **Md Hasan Al Rashid**, a Software Quality Assurance (SQA) enthusiast with a strong foundation in Data Science and Machine Learning. I’m always looking for ways to improve software quality through rigorous testing and innovative solutions. I’m deeply curious about software development processes and have experience ensuring software meets performance, security, and usability standards.
 
@@ -12,7 +13,7 @@ I thrive in team environments, applying my problem-solving skills and emotional 
 
 ## 🌐 Socials:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] [**Email**](dev.mdhasan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nirrjhorr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirrjhorr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirrjhorr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nirrjhorr) 
 

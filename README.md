@@ -8,7 +8,7 @@ Hi there! I’m **Md Hasan Al Rashid** — a dedicated **Software Quality Assura
 
 🔐 Lately, I’ve been diving into **cybersecurity tools and practices** to expand my perspective and sharpen my QA skills.
 
-🎯 **Goal**: To become a modern QA expert and pursue my **Master’s in 2026**, focusing on QA-driven development and secure software testing.
+🎯 **Goal**: To become a modern QA expert and focusing on QA-driven development and secure software testing.
 
 ---
 
